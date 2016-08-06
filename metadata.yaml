@@ -1,0 +1,29 @@
+_repo: Narrative-of-a-Survey-of-the-Intertropical-and-Western-Coasts-of-Australia--13-Performed-betw__11203
+_version: 0.0.1
+creator:
+  author:
+    agent_name: King, Philip Parker
+    alias: King, Phillip Parker
+    birthdate: 1791
+    deathdate: 1856
+    gutenberg_agent_id: '3879'
+    url: http://www.gutenberg.org/2009/agents/3879
+    wikipedia: http://en.wikipedia.org/wiki/Philip_Parker_King
+description: ''
+gutenberg_bookshelf: Australia
+gutenberg_issued: '2004-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11203'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DU'
+- !lcsh 'Australia -- Description and travel'
+- !lcsh 'Natural history -- Australia'
+- GITenberg
+title: "Narrative of a Survey of the Intertropical and Western Coasts of Australia\r\
+  \nPerformed between the years 1818 and 1822 — Volume 1"
+url: http://www.gutenberg.org/ebooks/11203
